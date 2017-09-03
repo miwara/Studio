@@ -1,0 +1,3 @@
+---
+- name: install mysql
+  yum: name=mysql state=installed
