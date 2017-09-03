@@ -4,3 +4,4 @@
   roles:
      - httpd
      - php7
+     -memcached
